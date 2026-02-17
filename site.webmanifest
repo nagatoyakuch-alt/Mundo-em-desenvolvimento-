@@ -1,0 +1,22 @@
+{
+  "name": "VideoWave",
+  "short_name": "VideoWave",
+  "description": "Plataforma moderna de vídeos curtos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff004f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/android/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
